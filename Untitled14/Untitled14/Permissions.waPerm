@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+<allow type="service" resource="waf-git-service" action="execute" groupID="01000000000000000000000000000000"/>
+</permissions>

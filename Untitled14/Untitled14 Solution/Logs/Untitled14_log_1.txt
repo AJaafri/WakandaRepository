@@ -36,3 +36,41 @@
 2012-10-09 15:27:04 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Closing the project
 2012-10-09 15:27:04 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Project closed (duration: 31 ms)
 2012-10-09 15:27:05 [com.wakanda-software.Untitled14] INFO - Solution closed (duration: 960 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14] INFO - Opening the solution
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14] INFO - Opening the users and groups directory
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14] INFO - Users and groups directory opened (duration: 14 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Opening the project
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Opening the database
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Database opened (duration: 5 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Project opened (duration: 14 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Opening the project
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Project opened (duration: 3 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14] INFO - Solution opened (duration: 70 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14] INFO - Starting the solution
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Starting the project
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Starting the HTTP server
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - HTTP server started (duration: 50 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Project started (duration: 79 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Starting the project
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Starting the HTTP server
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - HTTP server started (duration: 108 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Project started (duration: 176 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Executing the bootstrap(s)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.Untitled14] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-10-09 15:28:50 [com.wakanda-software.Untitled14] INFO - Solution started (duration: 265 ms)
+2012-10-09 15:30:03 [com.wakanda-software.Untitled14] INFO - Stopping the solution
+2012-10-09 15:30:03 [com.wakanda-software.Untitled14.Untitled14] INFO - Stopping the project
+2012-10-09 15:30:05 [com.wakanda-software.Untitled14.Untitled14] INFO - Project stopped (duration: 2039 ms)
+2012-10-09 15:30:05 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Stopping the project
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Project stopped (duration: 2045 ms)
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14] INFO - Solution stopped (duration: 4085 ms)
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14] INFO - Closing the solution
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14.Untitled14] INFO - Closing the project
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14.Untitled14] INFO - Closing the database
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14.Untitled14] INFO - Database closed (duration: 419 ms)
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14.Untitled14] INFO - Project closed (duration: 419 ms)
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Closing the project
+2012-10-09 15:30:07 [com.wakanda-software.Untitled14.ServerAdmin] INFO - Project closed (duration: 27 ms)
+2012-10-09 15:30:08 [com.wakanda-software.Untitled14] INFO - Solution closed (duration: 906 ms)
